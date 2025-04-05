@@ -1,2 +1,2 @@
-# Nertwork-Security
+# Network-Security
 Repository to hold network exploit scripts
